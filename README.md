@@ -8,13 +8,8 @@
 - 🔍 Exploring the endless possibilities of **AI research**  
 - 📈 Mastering new skills, one day at a time  
 - 🛠️ Crafting **free, user-friendly solutions** for personal growth  
-- 🎮 Innovating where **AI meets gaming** to unlock next-level experiences  
-
----
-
-### 🎓 **On a Mission**
-- 🌱 Currently diving deep into **Artificial Intelligence and Machine Learning (AIML)** at **SOIT RGPV Bhopal**   
-
+- 🎮 Innovating where **AI meets gaming** to unlock next-level experiences
+  
 ---
 
 ### 💡 **A Bit About Me**
