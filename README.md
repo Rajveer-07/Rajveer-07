@@ -2,9 +2,9 @@
 <h3 align="center">🔍 🔍 I’m passionate about research and using Artificial Intelligence to turn ideas into reality. Even without formal programming knowledge, I leverage my research skills and AI tools to build anything that sparks my interest.
 
 🚀 What Drives Me:
-	•	📈 Learning new skills every day
-	•	🛠️ Creating free, easy-to-use solutions for personal growth
-	•	💡 Innovating where AI meets gaming.</h3>
+	•	\n📈 Learning new skills every day
+	•	\n🛠️ Creating free, easy-to-use solutions for personal growth
+	•	\n💡 Innovating where AI meets gaming.</h3>
 
 - 🌱 I’m currently learning **AIML**
 
