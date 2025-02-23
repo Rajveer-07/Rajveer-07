@@ -13,9 +13,7 @@
 ---
 
 ### 🎓 **On a Mission**
-- 🌱 Currently diving deep into **Artificial Intelligence and Machine Learning (AIML)** at **SOIT RGPV Bhopal**  
-- 🎯 Striving for academic excellence with an **8+ CGPA**  
-- 🏆 Preparing to conquer the **GATE** exam  
+- 🌱 Currently diving deep into **Artificial Intelligence and Machine Learning (AIML)** at **SOIT RGPV Bhopal**   
 
 ---
 
