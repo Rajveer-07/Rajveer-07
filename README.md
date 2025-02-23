@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajveer Dangi</h1>
 
-<h3 align="center">🔍  I’m passionate about research and using Artificial Intelligence to turn ideas into reality. Even without formal programming knowledge, I leverage my research skills and AI tools to build anything that sparks my interest.  
+<h3 align="center">  
 
 🚀 What Drives Me:  
 • 📈 Learning new skills  
